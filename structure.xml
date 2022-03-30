@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    2022-03-30
+-->
+<data>
+    <!--1. ຂໍ້ມູນສ່ວນບຸກຄົນ-->
+    <personal_info>
+        <row id="uid">
+            <firstname_LA>ຊື່ (ພາ​ສາລາວ)</firstname_LA>
+            <lastname_LA>ນາມສະກຸນ​ (ພາ​ສາລາວ)</lastname_LA>
+            <firstname_EN>ຊື່ (ພາ​ສາອັງ​ກິດ)</firstname_EN>
+            <lastname_EN>ນາມສະກຸນ​ (ພາ​ສາອັງ​ກິດ)</lastname_EN>
+            <dateofbirth>ວ. ດ. ປ ເກີດ</dateofbirth>
+            <age>ອາຍຸ</age>
+            <gender_id>ລະຫັດເພດ</gender_id>
+            <nationality_id>ລະຫັດສັນ​ຊາດ</nationality_id>
+            <marital_status_id>ລະຫັດສະ​ຖາ​ນະພາບ</marital_status_id>
+            <career_id>ລະຫັດອາຊີບ</career_id>
+            <village_id>ລະຫັດບ້ານຢູ່ປະຈຸບັນ</village_id>
+            <home_address>ທີ່ຢູ່</home_address>
+            <contact_info>ຂໍ້ມູນຕິດຕໍ່</contact_info>
+        </row>
+    </personal_info>
+
+    <!-- 2. ຂໍ້ມູນບັດປະຈຳຕົວ -->
+    <lao_id_cards>
+        <row id="ລະຫັດຂໍ້ມູນບັດປະຈໍາຕົວ">
+            <card_no>ເລກ​ທີບັດປະຈໍາຕົວ</card_no>
+            <card_name>ຊື່ເຈົ້າຂອງບັດປະຈໍາຕົວ</card_name>
+            <date_of_issue>ວ. ດ. ປ ອອກ​ບັດປະຈໍາຕົວ</date_of_issue>
+            <exp_date>ວ. ດ. ປ ໝົດ​ອາ​ຍຸປະຈໍາຕົວ</exp_date>
+            <owner_id>ລະຫັດເຈົ້າຂອງບັດປະຈໍາຕົວ</owner_id>
+        </row>
+    </lao_id_cards>
+
+    <!-- 3. ຂໍ້ມູນສໍາມະໂນຄົວ -->
+    <lao_family_books>
+        <row id="ລະຫັດຂໍ້ມູນສໍາມະໂນຄົວ">
+            <book_no>ເລກທີສໍາມະໂນຄົວ</book_no>
+            <book_name>ຊືີ່ ແລະ ນາມສະກຸນ ຫົວໜ້າຄອບຄົວ</book_name>
+            <date_of_issue>ວ. ດ. ປ ອອກປື້ມສຳມະໂນຄົວ</date_of_issue>
+            <owner_id>ລະຫັດເຈົ້າຂອງປື້ມສຳມະໂນຄົວ</owner_id>
+        </row>
+    </lao_family_books>
+
+    <!-- 4. ຂໍ້ມູນໜັງສືຜ່ານແດນ -->
+    <passports>
+        <row id="ລະຫັດຂໍ້ມູນໜັງສືຜ່ານແດນ">
+            <passport_no>ເລກທີໜັງສືຜ່ານແດນ</passport_no>
+            <passport_name>ຊື່ໜັງເຈົ້າຂອງສືຜ່ານແດນ</passport_name>
+            <exp_date>ວ.ດ.ປ ໝົດອາຍຸໜັງສືຜ່ານແດນ</exp_date>
+            <owner_id>ລະຫັດເຈົ້າຂອງໜັງສືຜ່ານແດນ</owner_id>
+        </row>
+    </passports>
+
+    <!-- 5. ຂໍ້ມູນວິສາຫະກິດ -->
+    <enterprise_info>
+        <row id="ລະຫັດຂໍ້ມູນວິສາຫະກິດ">
+            <name_LA>ຊື່ວິສາຫະກິດ (ພາ​ສາລາວ)</name_LA>
+            <name_EN>ຊື່ວິສາຫະກິດ (ພາ​ສາອັງ​ກິດ)</name_EN>
+            <register_no>ເລກທະບຽນວິສາຫະກິດ</register_no>
+            <date_of_issue>ວ. ດ. ປ ອອກໃບ​ທະ​ບຽນ​ວິ​ສາ​ຫະ​ກິດ</date_of_issue>
+            <registrant>ຊື່ຜູ້ໃດ້ຮັບການຂື້ນທະບຽນໃນໃບທະບຽນວິສາຫະກິດ</registrant>
+            <enterprise_size_id>ລະຫັດຂະໜາດວີສາຫະກິດ</enterprise_size_id>
+            <village_id>ລະຫັດບ້ານ</village_id>
+        </row>
+    </enterprise_info>
+
+    <!-- 6. ຂໍ້ມູນຫຼັກຊັບຄ້ຳປະກັນ -->
+    <collaterals>
+        <row id="ລະຫັດຂໍ້ມູນຫຼັກຊັບຄ້ຳປະກັນ">
+            <category_id>ລະຫັດໜວດຫຼັກຊັບຄ້ຳປະກັນ</category_id>
+            <name>ຊື່ຫຼັກຊັບຄ້ຳປະກັນ</name>
+            <collateral_no>ເລກທີຫຼັກຊັບຄ້ຳປະກັນ</collateral_no>
+            <date_of_issue>ລົງວັນທີ</date_of_issue>
+            <value>ມູນຄ່າຫຼັກຊັບຄ້ຳປະກັນ</value>
+            <other_details>ລາຍລະອຽດອື່ນໆ</other_details>
+        </row>
+    </collaterals>
+
+    <!-- 7. ຂໍ້ມູນເຈົ້າຂອງຫຼັກຊັບຄ້ຳປະກັນ (ບຸກຄົນ) -->
+    <collateral_individuals>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງຫຼັກຊັບຄ້ຳປະກັນ">
+            <owner_id>ລະຫັດເຈົ້າຂອງຫຼັກຊັບຄ້ຳປະກັນ</owner_id>
+            <collateral_id>ລະຫັດຫຼັກຊັບຄ້ຳປະກັນ</collateral_id>
+        </row>
+    </collateral_individuals>
+
+    <!-- 8. ຂໍ້ມູນເຈົ້າຂອງຫຼັກຊັບຄ້ຳປະກັນ (ນິຕິບຸກຄົນ) -->
+    <collateral_enterprises>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງຫຼັກຊັບຄ້ຳປະກັນ">
+            <enterprise_id>ລະຫັດວິສາຫະກິດເຈົ້າຂອງຫຼັກຊັບ</enterprise_id>
+            <collateral_id>ລະຫັດຫຼັກຊັບ</collateral_id>
+        </row>
+    </collateral_enterprises>
+
+    <!-- 9. ຂໍ້ມູນສິນເຊື່ອ -->
+    <loans>
+        <row id="ລະຫັດຂໍ້ມູນສິນເຊື່ອ">
+            <from_date>ວ. ດ. ປ ອະນຸມັດສັນຍາ</from_date>
+            <to_date>ວ. ດ. ປ ຄົບສັນຍາ</to_date>
+            <use_of_loan>ຈຸດປະສົງການນໍາໃຊ້ສິນເຊື່ອ</use_of_loan>
+            <approved_balance>​ວົງເງິນທີ່ອະນຸມັດ</approved_balance>
+            <remaining_balance>ຍອດເຫລືອປະຈຸບັນ</remaining_balance>
+            <allowance_losses>ເງິນແຮ (Allowance for Loan Losses)</allowance_losses>
+            <interest_rate>ອັດຕາດອກເບ້ຍ (ຕໍ່ເດືອນ)</interest_rate>
+            <classification_id>ລະຫັດຈັດຊັ້ນສິນເຊື່ອ</classification_id>
+            <classification_date>ວ. ດ. ປ ຈັດຊັ້ນສິນເຊື່ອ</classification_date>
+            <category_id>ລະຫັດໝວດສິນເຊື່ອ</category_id>
+            <restructured_date>ວ. ດ. ປ ​ປັບ​ປຸງ​ໂຄງ​ສ້າງສິນເຊື່ອ</restructured_date>
+            <write_off_date>ວ. ດ. ປ  ລ້າງສິນເຊື່ອ​ເພື່ອທີ່​ຕິດ​ຕາມນອກ​ຜັງ</write_off_date>
+            <borrower_type_id>ລະຫັດປະເພດລູກຄ້າ</borrower_type_id>
+            <economic_sector_id>ລະຫັດພາກສ່ວນເສດຖະກິດ</economic_sector_id>
+            <economic_branch_id>ລະຫັດຂະແໜງເສດຖະກິດ</economic_branch_id>
+            <borrower_connection_id>ລະຫັດສາຍພົວພັນກັບສະຖາບັນການເງິນ</borrower_connection_id>
+            <funding_source_id>ລະຫັດແຫຼ່ງທຶນຂອງສິນເຊື່ອ</funding_source_id>
+            <funding_org>ຊື່ອົງ​ກອນແຫຼ່ງທຶນຂອງສິນເຊື່ອ</funding_org>
+        </row>
+    </loans>
+
+    <!-- 10. ຂໍ້ມູນຫຼັກຊັບຄ້ຳປະກັນສິນເຊຶ່ອ -->
+    <loan_collaterals>
+        <row id="ລະຫັດຂໍ້ມູນຫຼັກຊັບຄ້ຳປະກັນສິນເຊຶ່ອ">
+            <collateral_id>ລະຫັດຫຼັກຊັບຄ້ຳປະກັນ</collateral_id>
+            <loan_id>ລະຫັດສິນເຊື່ອ</loan_id>
+        </row>
+    </loan_collaterals>
+
+    <!-- 11. ຂໍ້ມູນເຈົ້າຂອງສິນເຊຶ່ອ (ບຸກຄົນ) -->
+    <borrowers_individual>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງສິນເຊຶ່ອ">
+            <borrower_id>ລະຫັດບຸກຄົນ</borrower_id>
+            <loan_id>ລະຫັດສິນເຊື່ອ</loan_id>
+        </row>
+    </borrowers_individual>
+
+    <!-- 12. ຂໍ້ມູນເຈົ້າຂອງສິນເຊຶ່ອ (ນິຕິບຸກຄົນ) -->
+    <borrowers_enterprise>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງສິນເຊຶ່ອ">
+            <enterprise_id>ລະຫັດວິສາຫະກິດ</enterprise_id>
+            <loan_id>ລະຫັດສິນເຊື່ອ</loan_id>
+        </row>
+    </borrowers_enterprise>
+
+    <!-- 13. ຂໍ້ມູນເງິນຝາກ -->
+    <deposits>
+        <row id="ລະຫັດຂໍ້ມູນເງິນຝາກ">
+            <account_no>ເລກບັນຊີເງິນຝາກ</account_no>
+            <depositor_type_id>ລະຫັດປະເພດລູກຄ້າ</depositor_type_id>
+            <deposit_type_id>ລະຫັດປະ​ເພດເງິນຝາກ</deposit_type_id>
+            <from_date>ວ. ດ. ປ ເປີດບັນຊີ</from_date>
+            <to_date>ວ. ດ. ປ ​ຄົບກໍາ​ນົດ</to_date>
+            <interest_rate_date>ວ.ດ.ປ ເລີ່ມຄິດໄລດອກເບ້ຍ</interest_rate_date>
+            <opening_balance>ຈໍາ​ນວນວົງເງິນເປີດບັນຊີ</opening_balance>
+            <remaining_balance>ຍອດເຫລືອເງິນຝາກໃນບັນຊີ</remaining_balance>
+            <deposit>ຍອດເງິນຝາກ (ໃນເດືອນ)</deposit>
+            <withdrawal>ຍອດເງິນຖອນ (ໃນເດືອນ)</withdrawal>
+            <interest_rate>ອັດຕາດອກເບ້ຍ (ຕໍ່ເດືອນ)</interest_rate>
+            <economic_sector_id>ລະຫັດພາກສ່ວນເສດຖະກິດ</economic_sector_id>
+            <economic_branch_id>ລະຫັດຂະແໜງເສດຖະກິດ</economic_branch_id>
+        </row>
+    </deposits>
+
+    <!-- 14. ຂໍ້ມູນເຈົ້າຂອງເງິນຝາກ (ບຸກຄົນ) -->
+    <depositors_individual>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງເງິນຝາກ">
+            <deposit_id>ລະຫັດເງິນຝາກ</deposit_id>
+            <depositor_id>ລະຫັດເຈົ້າຂອງເງິນຝາກ</depositor_id>
+        </row>
+    </depositors_individual>
+
+    <!-- 15. ຂໍ້ມູນເຈົ້າຂອງເງິນຝາກ (ນິຕິບຸກຄົນ) -->
+    <depositors_enterprise>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງເງິນຝາກ">
+            <deposit_id>ລະຫັດເງິນຝາກ</deposit_id>
+            <enterprise_id>ລະຫັດວິສາຫະກິດ</enterprise_id>
+        </row>
+    </depositors_enterprise>
+
+    <!-- 16. ຂໍ້ມູນຮຸ້ນສະມາຊິກ -->
+    <member_shares>
+        <row id="ລະຫັດຂໍ້ມູນຮຸ້ນສະມາຊິກ">
+            <member_type_id>ລະຫັດປະເພດສະ​ມາ​ຊິກ</member_type_id>
+            <from_date>ວ. ດ. ປ ເຂົ້າ​ເປັນ​ສະ​ມາ​ຊິກ</from_date>
+            <to_date>ວ. ດ. ປ ສິ້ນສຸດການ​ເປັນ​ສະ​ມາ​ຊິກ</to_date>
+            <initial_contribution>ຮຸ້ນທີ່ປະກອບເຂົ້າໃນ​ເບື້ອງ​ຕົ້ນ (ລວມທັງຮຸ້ນສ້າງຕັ້ງ)</initial_contribution>
+            <contribution>ຮຸ້ນທີ່ປະກອບເຂົ້າ (ໃນເດືອນ)</contribution>
+            <withdrawal>ຮຸ້ນທີ່ຖອນ (ໃນເດືອນ)</withdrawal>
+            <remaining_balance>ຍອດເຫລືອເງິນຮຸ້ນໃນປະຈຸບັນ</remaining_balance>
+        </row>
+    </member_shares>
+
+    <!-- 17. ຂໍ້ມູນເຈົ້າຂອງຮຸ້ນສະມາຊິກ (ບຸກຄົນ) -->
+    <member_shares_individuals>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງຮຸ້ນສະມາຊິກ">
+            <member_shares_id>ລະຫັດຮຸ້ນສະມາຊິກ</member_shares_id>
+            <member_id>ລະຫັດເຈົ້າຂອງຮຸ້ນສະມາຊິກ</member_id>
+        </row>
+    </member_shares_individuals>
+
+    <!-- 18. ຂໍ້ມູນເຈົ້າຂອງຮຸ້ນສະມາຊິກ (ນິຕິບຸກຄົນ) -->
+    <member_shares_enterprises>
+        <row id="ລະຫັດຂໍ້ມູນເຈົ້າຂອງຮຸ້ນສະມາຊິກ">
+            <member_shares_id>ລະຫັດຮຸ້ນສະມາຊິກ</member_shares_id>
+            <enterprise_id>ລະຫັດວິສາຫະກິດ</enterprise_id>
+        </row>
+    </member_shares_enterprises>
+
+    <!-- 19. ຂໍ້ມູນໃບດຸ່ນດ່ຽງ 6 ຫ້ອງ -->
+    <trial_balance>
+        <row id="ລຳດັບແຖວຂໍ້ມູນ">
+            <account_no>ເລກບັນຊີ</account_no>
+            <account_title>ເນື້ອໃນບັນຊີ</account_title>
+            <trial_balance_debit>ຍອດຍົກມາ ໜີ້</trial_balance_debit>
+            <trial_balance_credit>ຍອດຍົກມາ ມີ</trial_balance_credit>
+            <adjustment_debit>ຍອດເຄື່ອນໄຫວ ໜີ້</adjustment_debit>
+            <adjustment_credit>ຍອດເຄື່ອນໄຫວ ມີ</adjustment_credit>
+            <adjusted_trial_balance_debit>ຍວດເຫຼືອ ໜີ້</adjusted_trial_balance_debit>
+            <adjusted_trial_balance_credit>ຍອດເຫຼືອ ມີ</adjusted_trial_balance_credit>
+        </row>
+    </trial_balance>
+
+    <!-- 20. ຂໍ້ມູນພະນັກງານ -->
+    <employees>
+        <row id="ລະຫັດຂໍ້ມູນພະນັກງານ">
+            <contact_info>ຂໍ້ມູນຕິດຕໍ່</contact_info>
+            <education_level_id>ລະຫັດລະດັບການສືກສາ</education_level_id>
+            <date_of_employment>ວ.ດ.ປ ເຂົ່າເປັນພະນັກງານຂອງສະຖາບັນການເງິນ</date_of_employment>
+            <field_of_study>ສາຂາວິຊາທີ່ຮຽນຈົບ</field_of_study>
+        </row>
+    </employees>
+
+    <!-- 21. ຂໍ້ມູນຕຳແໜ່ງພະນັກງານ -->
+    <employee_positions>
+        <row id="ລະຫັດຂໍ້ມູນຕຳແໜ່ງພະນັກງານ">
+            <employee_id>ລະຫັດພະນັກງານ</employee_id>
+            <position_id>ລະຫັດຕຳແໜ່ງພະນັກງານ</position_id>
+        </row>
+    </employee_positions>
+
+    <!-- 22. ຂໍ້ມູນສະຖາບັນການເງິນ -->
+    <mfi_info>
+        <id>ລະຫັດສະຖາບັນ (ກຄສງ ກຳນົດໃຫ້)</id>
+        <approved_date>ວ.ດ.ປ ໄດ້ຮັບອະນຸຍາດດຳເນີນທຸລະກິດ (ສ້າງຕັ້ງ)</approved_date>
+        <name_LA>ຊື່ສະຖາບັນ (ລາວ)</name_LA>
+        <name_EN>ຊື່ສະຖາບັນ (ອັງກິດ)</name_EN>
+        <village_id>ລະຫັດບ້ານ (ທີ່ຕັ້ງຂອງສະຖາບັນການເງິນ)</village_id>
+        <address>ທີ່ຢູ່</address>
+        <house_unit>ໜ່ວຍ</house_unit>
+        <house_no>ເຮືອນເລກທິ</house_no>
+        <enterprise_id>ລະຫັດຂໍ້ມູນວິສາຫະກິດ</enterprise_id>
+        <license_no>ເລກທີ/ລົງວັນທີ ໃບອະນຸຍາດລ່າສຸດ</license_no>
+        <branches>ຈຳນວນສາຂາ</branches>
+        <service_units>ຈຳນວນໜ່ວຍບໍລິການ</service_units>
+        <employees>ຈຳນວນພະນັກງານທັງໝົດ</employees>
+        <employees_female>ຈຳນວນພະນັກງານທັງໝົດ ຍິງ</employees_female>
+        <employees_HQ>ຈຳນວນພະນັກງານສຳນັກງານໃຫຍ່</employees_HQ>
+        <employees_female_HQ>ຈຳນວນພະນັກງານສຳນັກງານໃຫຍ່ ຍິງ</employees_female_HQ>
+        <tel>ເບີໂທ</tel>
+        <mobile>ເບີມືຖື</mobile>
+        <fax>ເບີແຟັກ</fax>
+        <email>ອີເມວ</email>
+        <whatsapp>Whatsapp</whatsapp>
+        <website>Website</website>
+        <other_infos>ຂໍ້ມູນອື່ນໆ</other_infos>
+        <latitude>ເສັ້ນຂະໜານ</latitude>
+        <longitude>ເສັ້ນແວງ</longitude>
+    </mfi_info>
+
+    <!-- 23. ຂໍ້ມູນສາຂາສະຖາບັນການເງິນ -->
+    <mfi_branches_info>
+        <row id="ລະຫັດສາຂາສະຖາບັນການເງິນ (ກຄສງ ກຳນົດໃຫ້)">
+            <approved_date>ວ.ດ.ປ ໄດ້ຮັບອະນຸຍາດດຳເນີນທຸລະກິດ (ສ້າງຕັ້ງສາຂາ)</approved_date>
+            <name_LA>ຊື່ສາຂາສະຖາບັນ (ລາວ)</name_LA>
+            <name_EN>ຊື່ສາຂາສະຖາບັນ (ອັງກິດ)</name_EN>
+            <village_id>ລະຫັດບ້ານ (ທີ່ຕັ້ງຂອງສາຂາ)</village_id>
+            <address>ທີ່ຢູ່</address>
+            <house_unit>ໜ່ວຍ</house_unit>
+            <house_no>ເຮືອນເລກທິ</house_no>
+            <license_no>ເລກທີ/ລົງວັນທີ ໃບອະນຸຍາດລ່າສຸດ</license_no>
+            <service_units>ຈຳນວນໜ່ວຍບໍລິການ</service_units>
+            <employees>ຈຳນວນພະນັກງານ</employees>
+            <employees_female>ຈຳນວນພະນັກງານ ຍິງ</employees_female>
+            <tel>ເບີໂທ</tel>
+            <mobile>ເບີມືຖື</mobile>
+            <fax>ເບີແຟັກ</fax>
+            <email>ອີເມວ</email>
+            <whatsapp>Whatsapp</whatsapp>
+            <website>Website</website>
+            <other_infos>ຂໍ້ມູນອື່ນໆ</other_infos>
+            <latitude>ເສັ້ນຂະໜານ</latitude>
+            <longitude>ເສັ້ນແວງ</longitude>
+        </row>
+    </mfi_branches_info>
+
+    <!-- 24. ຂໍ້ມູນໜ່ວຍບໍລິການສະຖາບັນການເງິນ -->
+    <mfi_service_units_info>
+        <row id="ລະຫັດໜ່ວຍບໍລິການສະຖາບັນການເງິນ">
+            <approved_date>ວ.ດ.ປ ໄດ້ຮັບອະນຸຍາດສ້າງຕັ້ງໜ່ວຍບໍລິການ</approved_date>
+            <name_LA>ຊື່ໜ່ວຍບໍລິການສະຖາບັນ (ລາວ)</name_LA>
+            <name_EN>ຊື່ໜ່ວຍບໍລິການສະຖາບັນ (ອັງກິດ)</name_EN>
+            <village_id>ລະຫັດບ້ານ (ທີ່ຕັ້ງ)</village_id>
+            <address>ທີ່ຢູ່</address>
+            <house_unit>ໜ່ວຍ</house_unit>
+            <house_no>ເຮືອນເລກທິ</house_no>
+            <license_no>ເລກທີ/ລົງວັນທີ ໜັງສືອະນຸຍາດ</license_no>
+            <employees>ຈຳນວນພະນັກງານ</employees>
+            <employees_female>ຈຳນວນພະນັກງານ ຍິງ</employees_female>
+            <tel>ເບີໂທ</tel>
+            <mobile>ເບີມືຖື</mobile>
+            <fax>ເບີແຟັກ</fax>
+            <email>ອີເມວ</email>
+            <whatsapp>Whatsapp</whatsapp>
+            <website>Website</website>
+            <other_infos>ຂໍ້ມູນອື່ນໆ</other_infos>
+            <latitude>ເສັ້ນຂະໜານ</latitude>
+            <longitude>ເສັ້ນແວງ</longitude>
+        </row>
+    </mfi_service_units_info>
+
+    <!-- 25. ຂໍ້ມູນໜ່ວຍບໍລິການຂອງສຳນັກງານໃຫຍ່ -->
+    <mfi_HQ_service_units>
+        <row id="ລະຫັດຂໍ້ມູນໜ່ວຍບໍລິການຂອງສຳນັກງານໃຫຍ່">
+            <service_unit_id>ລະຫັດຂໍ້ມູນໜ່ວຍບໍລິການ</service_unit_id>
+        </row>
+    </mfi_HQ_service_units>
+
+    <!-- 26. ຂໍ້ມູນໜ່ວຍບໍລິການຂອງສາຂາສະຖາບັນການເງິນ -->
+    <mfi_branch_service_units>
+        <row id="ລະຫັດຂໍ້ມູນໜ່ວຍບໍລິການຂອງສາຂາສະຖາບັນການເງິນ">
+            <mfi_branch_id>ລະຫັດຂໍ້ມູນສາຂາສະຖາບັນການເງິນ</mfi_branch_id>
+            <service_unit_id>ລະຫັດຂໍ້ມູນໜ່ວຍບໍລິການ</service_unit_id>
+        </row>
+    </mfi_branch_service_units>
+
+    <!-- 27. ຂໍ້ມູນບົດລາຍງານ -->
+    <report_info>
+        <mfi_id>ລະຫັດສະຖາບັນການເງິນ/ສາຂາຂອງສະຖາບັນການເງິນທີ່ ກຄສງ ກຳນົດໃຫ້</mfi_id>
+        <report_date>ດ.ປ ບົດລາຍງານ</report_date>
+        <account_closing_date>ວ. ດ. ປ ປິດບັນຊີ</account_closing_date>
+        <phone>ເບີໂທພາກສ່ວນຮັບຜິດຊອບກ່ຽວກັບບົດລາຍງານ</phone>
+        <email>ອີເມວພາກສ່ວນຮັບຜິດຊອບກ່ຽວກັບບົດລາຍງານ</email>
+        <whatsapp>Whatsapp ພາກສ່ວນຮັບຜິດຊອບກ່ຽວກັບບົດລາຍງານ</whatsapp>
+    </report_info>
+
+</data>
