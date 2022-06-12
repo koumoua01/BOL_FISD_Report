@@ -5,6 +5,36 @@
 <data>
     <!--1. ຂໍ້ມູນສ່ວນບຸກຄົນ-->
     <personal_info>
+        <row id="1">
+            <firstname_LA>ຊື່ (ພາ​ສາລາວ)</firstname_LA>
+            <lastname_LA>ນາມສະກຸນ​ (ພາ​ສາລາວ)</lastname_LA>
+            <firstname_EN>ຊື່ (ພາ​ສາອັງ​ກິດ)</firstname_EN>
+            <lastname_EN>ນາມສະກຸນ​ (ພາ​ສາອັງ​ກິດ)</lastname_EN>
+            <dateofbirth>ວ. ດ. ປ ເກີດ</dateofbirth>
+            <age>ອາຍຸ</age>
+            <gender_id>ລະຫັດເພດ</gender_id>
+            <nationality_id>ລະຫັດສັນ​ຊາດ</nationality_id>
+            <marital_status_id>ລະຫັດສະ​ຖາ​ນະພາບ</marital_status_id>
+            <career_id>ລະຫັດອາຊີບ</career_id>
+            <village_id>ລະຫັດບ້ານຢູ່ປະຈຸບັນ</village_id>
+            <home_address>ທີ່ຢູ່</home_address>
+            <contact_info>ຂໍ້ມູນຕິດຕໍ່</contact_info>
+        </row>
+        <row id="2">
+            <firstname_LA>ຊື່ (ພາ​ສາລາວ)</firstname_LA>
+            <lastname_LA>ນາມສະກຸນ​ (ພາ​ສາລາວ)</lastname_LA>
+            <firstname_EN>ຊື່ (ພາ​ສາອັງ​ກິດ)</firstname_EN>
+            <lastname_EN>ນາມສະກຸນ​ (ພາ​ສາອັງ​ກິດ)</lastname_EN>
+            <dateofbirth>ວ. ດ. ປ ເກີດ</dateofbirth>
+            <age>ອາຍຸ</age>
+            <gender_id>ລະຫັດເພດ</gender_id>
+            <nationality_id>ລະຫັດສັນ​ຊາດ</nationality_id>
+            <marital_status_id>ລະຫັດສະ​ຖາ​ນະພາບ</marital_status_id>
+            <career_id>ລະຫັດອາຊີບ</career_id>
+            <village_id>ລະຫັດບ້ານຢູ່ປະຈຸບັນ</village_id>
+            <home_address>ທີ່ຢູ່</home_address>
+            <contact_info>ຂໍ້ມູນຕິດຕໍ່</contact_info>
+        </row>
         <row id="uid">
             <firstname_LA>ຊື່ (ພາ​ສາລາວ)</firstname_LA>
             <lastname_LA>ນາມສະກຸນ​ (ພາ​ສາລາວ)</lastname_LA>
@@ -25,7 +55,21 @@
 
     <!-- 2. ຂໍ້ມູນບັດປະຈຳຕົວ -->
     <lao_id_cards>
-        <row id="ລະຫັດຂໍ້ມູນບັດປະຈໍາຕົວ">
+        <row id="1">
+            <card_no>ເລກ​ທີບັດປະຈໍາຕົວ</card_no>
+            <card_name>ຊື່ເຈົ້າຂອງບັດປະຈໍາຕົວ</card_name>
+            <date_of_issue>ວ. ດ. ປ ອອກ​ບັດປະຈໍາຕົວ</date_of_issue>
+            <exp_date>ວ. ດ. ປ ໝົດ​ອາ​ຍຸປະຈໍາຕົວ</exp_date>
+            <owner_id>ລະຫັດເຈົ້າຂອງບັດປະຈໍາຕົວ</owner_id>
+        </row>
+        <row id="2">
+            <card_no>ເລກ​ທີບັດປະຈໍາຕົວ</card_no>
+            <card_name>ຊື່ເຈົ້າຂອງບັດປະຈໍາຕົວ</card_name>
+            <date_of_issue>ວ. ດ. ປ ອອກ​ບັດປະຈໍາຕົວ</date_of_issue>
+            <exp_date>ວ. ດ. ປ ໝົດ​ອາ​ຍຸປະຈໍາຕົວ</exp_date>
+            <owner_id>ລະຫັດເຈົ້າຂອງບັດປະຈໍາຕົວ</owner_id>
+        </row>
+        <row id="3">
             <card_no>ເລກ​ທີບັດປະຈໍາຕົວ</card_no>
             <card_name>ຊື່ເຈົ້າຂອງບັດປະຈໍາຕົວ</card_name>
             <date_of_issue>ວ. ດ. ປ ອອກ​ບັດປະຈໍາຕົວ</date_of_issue>
