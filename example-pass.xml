@@ -171,22 +171,17 @@
             <owner_id>2</owner_id>
             <collateral_id>2</collateral_id>
         </row>
+        <row id="3">
+            <owner_id>2</owner_id>
+            <collateral_id>3</collateral_id>
+        </row>
         <!-- <row id="">
             <owner_id></owner_id>
             <collateral_id></collateral_id>
         </row> -->
     </collateral_individuals>
 
-    <collateral_enterprises>
-        <row id="1">
-            <enterprise_id>1</enterprise_id>
-            <collateral_id>3</collateral_id>
-        </row>
-        <!-- <row id="">
-            <enterprise_id></enterprise_id>
-            <collateral_id></collateral_id>
-        </row> -->
-    </collateral_enterprises>
+
     <loans>
         <row id="1">
             <from_date>2022-01-21</from_date>
@@ -1323,52 +1318,6 @@
         </row>
 
     </trial_balance>
-    <personal_info>
-        <row id="1">
-            <firstname_LA>ດຳ</firstname_LA>
-            <lastname_LA>ແດງ</lastname_LA>
-            <firstname_EN>Dam</firstname_EN>
-            <lastname_EN>Deng</lastname_EN>
-            <dateofbirth>1950-07-25</dateofbirth>
-            <age>31</age>
-            <gender_id>1</gender_id>
-            <nationality_id>1</nationality_id>
-            <marital_status_id>1</marital_status_id>
-            <career_id>1</career_id>
-            <village_id>100</village_id>
-            <home_address>home address</home_address>
-            <contact_info>020 xxxxxxxx</contact_info>
-        </row>
-        <row id="2">
-            <firstname_LA>ແສງ</firstname_LA>
-            <lastname_LA>ດາວ</lastname_LA>
-            <firstname_EN>Seng</firstname_EN>
-            <lastname_EN>Dao</lastname_EN>
-            <dateofbirth>1995-10-15</dateofbirth>
-            <age>26</age>
-            <gender_id>2</gender_id>
-            <nationality_id>1</nationality_id>
-            <marital_status_id>1</marital_status_id>
-            <career_id>2</career_id>
-            <village_id>1000</village_id>
-            <home_address>home address</home_address>
-            <contact_info>020 xxxxxxxx</contact_info>
-        </row>
-        <!-- <row id="3">
-            <firstname_LA></firstname_LA>
-            <lastname_LA></lastname_LA>
-            <firstname_EN></firstname_EN>
-            <lastname_EN></lastname_EN>
-            <dateofbirth></dateofbirth>
-            <age></age>
-            <gender_id></gender_id>
-            <nationality_id></nationality_id>
-            <marital_status_id></marital_status_id>
-            <career_id></career_id>
-            <village_id></village_id>
-            <home_address></home_address>
-            <contact_info></contact_info>
-        </row> -->
-    </personal_info>
+
 
 </data>
